@@ -26,3 +26,4 @@ São 4 questões, da mais simples para a mais completa. Cada questão junta vár
 - [Atividade 02 — Cadastro de usuários da biblioteca digital (Strings, List, `foreach`, Operadores lógicos, if/else)](Atividade02.md)
 - [Atividade 03 — Pães da padaria (`while`, Entrada e conversão, Strings, List, for e `foreach`, `decimal`)](Atividade03.md)
 - [Atividade 04 — Boletim da turma (Lista aninhada, for e `foreach`, Entrada e conversão, `decimal`, if/else)](Atividade04.md)
+- [Arquivo apenas com os enunciados](Enunciados.md)
